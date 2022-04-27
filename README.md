@@ -45,7 +45,7 @@ https://drive.google.com/file/d/1ftRxfSedP1742XNWRbBzRv82ZgWe8iGe/view?usp=shari
 
 ### Выводы
 ![изображение](https://user-images.githubusercontent.com/71285888/165530988-d34dca84-48a0-43a4-acca-94d1dd0fad3a.png)  
-![1]((https://user-images.githubusercontent.com/71285888/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_001.png)  
+![1](https://user-images.githubusercontent.com/71285888/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_001.png)  
 ![plot](https://github.com/ivanova3600/LR0/blob/main/plot/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_002.png)  
 ![1](https://github.com/ivanova3600/LR0/blob/main/plot/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_003.png)  
 ![1](https://github.com/ivanova3600/LR0/blob/main/plot/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_004.png)  
