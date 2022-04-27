@@ -1,6 +1,10 @@
 # Лабораторная работа 0
-У меня проблемы с загрузкой, поэтому я прикрепила ссылку на colab.  
+У меня проблемы с загрузкой и конвертацией в пдф, поэтому я прикрепила ссылку на colab.  
 https://colab.research.google.com/drive/1kf20bNkmGsOhVnD3PCzbLRGsw8-yxRsQ?usp=sharing  
+Также просто ссылка (не colab).  
+https://drive.google.com/file/d/1Iw88uv1sAShEftGfF969ZAT7Rjp-HY1R/view?usp=sharing  
+Cсылка на данные.  
+https://drive.google.com/file/d/1ftRxfSedP1742XNWRbBzRv82ZgWe8iGe/view?usp=sharing  
 ### Набор данных:  
  В нем 12 полей:  
 1) id: ид человека (int64)  
