@@ -1,4 +1,6 @@
 # Лабораторная работа 0
+У меня проблемы с загрузкой, поэтому я прикрепила ссылку на colab.  
+https://colab.research.google.com/drive/1kf20bNkmGsOhVnD3PCzbLRGsw8-yxRsQ?usp=sharing  
 ### Набор данных:  
  В нем 12 полей:  
 1) id: ид человека (int64)  
